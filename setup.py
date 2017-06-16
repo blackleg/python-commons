@@ -3,10 +3,10 @@ from distutils.core import setup
 setup(
     name='blackleg',
     version='1.0.0',
-    packages=['tests', 'blackleg'],
-    url='',
-    license='',
+    packages=['blackleg'],
+    url='https://github.com/blackleg/python-commons',
+    license='Apache',
     author='blackleg',
     author_email='hectorespertpardo@gmail.com',
-    description=''
+    description='Blackleg python packages'
 )
